@@ -2,7 +2,7 @@ document.body.style.backgroundColor = "yellow"
 let todoList = [
     {
       item: 'Complete the project',
-      dueDate: '4-10-2023'
+      dueDate: '4-8-2024'
     },
   ];
   displayItems();
